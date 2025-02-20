@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      height: {
+        navbar: "var(--navbar-height)",
+        slider: "calc(100vh - var(--navbar-height))",
+      },
     },
   },
   plugins: [],
