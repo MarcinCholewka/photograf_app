@@ -6,7 +6,7 @@ import Spinner from "@/app/components/Spinner";
 
 export default function Home() {
   return (
-    <div className="mx-6 bg-white">
+    <div className="bg-white">
       <Head>
         <title>Fotograf Ślubny</title>
         <meta
